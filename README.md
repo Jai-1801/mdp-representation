@@ -41,7 +41,8 @@ R = { +10 for correctly exporting a ready product,
 -10 for exporting a faulty product}
 
 ### Graphical Representation:
-![image](1.png)
+![1 (2)](https://github.com/user-attachments/assets/5ff2e770-371d-4115-b0a2-b64720fc86ad)
+
 
 ## PYTHON REPRESENTATION:
 ```py
