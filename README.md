@@ -1,6 +1,6 @@
 # EX-01<p align="center"> MDP REPRESENTATION </p>
-# Name : Jai Surya R
-# Reg No : 212223230084
+### Name : Jai Surya R
+### Reg No : 212223230084
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
